@@ -1,6 +1,6 @@
 {
   "name": "update-dom",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A wrapper around the virtual-dom module that provides an update function.",
   "main": "index.js",
   "scripts": {
