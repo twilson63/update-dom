@@ -14,5 +14,13 @@
   },
   "devDependencies": {
     "tap": "^6.3.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twilson63/update-dom.git"
+  },
+  "bugs": {
+    "url": "https://github.com/twilson63/update-dom/issues"
+  },
+  "homepage": "https://github.com/twilson63/update-dom#readme"
 }

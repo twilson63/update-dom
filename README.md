@@ -20,3 +20,12 @@ update(
 ## Dependencies
 
 * virtual-dom
+
+## API
+
+## (tree, [ parent ]) -> update(newTree)
+
+When requiring the module it returns a function that
+takes a virtualDom Tree and optional parent node, then
+returns an update function that takes the new virtualDom Tree. This function should be called every time you want to update the dom.
+
